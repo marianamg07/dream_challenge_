@@ -4,4 +4,4 @@
 - Mariana Gonçalves, 
 - Quitéria Pinheiro
 
-## Dataset used in this project: " Novozymes Enzyme Stability Prediction, Help identify the thermostable mutations in enzymes " available at  https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction
+Dataset used in this project: " Novozymes Enzyme Stability Prediction, Help identify the thermostable mutations in enzymes " available at  https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction
