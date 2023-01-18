@@ -13,4 +13,5 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 
 **Notebooks that support our project**
 - https://www.kaggle.com/code/prashant111/k-means-clustering-with-python
-- https://www.kaggle.com/code/heeraldedhia/hierarchical-clustering-for-customer-data
+- https://www.kaggle.com/code/ksarvakar/hierarchical-clustering-machine-learning-tutorial
+- https://thinkingneuron.com/using-artificial-neural-networks-for-regression-in-python/?fbclid=IwAR1EJw4Gr26vRgt3z3lOhA73H8gGbNWZcaZrogBtPdsyL7KDYLpfasCPUS8
