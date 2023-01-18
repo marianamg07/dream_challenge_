@@ -10,3 +10,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 **Files** 
 - The .csv files are the datasets used in this analysis.
 - The .ipynb file is the notebook in which we worked on.
+
+**Notabooks that support our work**
+- https://www.kaggle.com/code/prashant111/k-means-clustering-with-python
+- https://www.kaggle.com/code/heeraldedhia/hierarchical-clustering-for-customer-data
