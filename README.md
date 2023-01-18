@@ -6,3 +6,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 - Quitéria Pinheiro, Pg45968
 
 **Dataset used in this project** : " Novozymes Enzyme Stability Prediction ", a dataset to help identify the thermostable mutations in enzymes. Available at  https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction .
+
+** Files * 
+- The .csv files are the datasets used in this analysis.
+- The .ipynb file is the notebook in which we worked on.
