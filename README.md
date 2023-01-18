@@ -5,7 +5,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 - Mariana Gonçalves, Pg45472
 - Quitéria Pinheiro, Pg45968
 
-**Dataset used in this project** : " Novozymes Enzyme Stability Prediction ", a dataset that help to predict protein stability . Available at https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction.
+**Dataset used in this project** : " Novozymes Enzyme Stability Prediction ", a dataset that helps to predict protein stability . Available at https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction.
 
 **Files** 
 - The .csv files are the datasets used in this analysis.
